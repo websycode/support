@@ -17,6 +17,6 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://info.websycode@gmail.com)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCg_-is2ZnoHDen4br_If-WA)
 
-## Create a Issue to Join this Organization
+## Create an Issue to Join this Organization
 Show us some ❤ by following us and starring our projects✨
 
